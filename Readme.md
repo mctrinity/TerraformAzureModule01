@@ -1,0 +1,1 @@
+This is a sample Terraform module by Maki Dizon to create an Azure Resource Group and an Azure Storage Account. 
